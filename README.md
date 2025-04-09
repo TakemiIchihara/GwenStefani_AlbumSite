@@ -22,4 +22,19 @@
 ## Result
 > The design identity reflects Gwen Stefani's versatility as the fusion of her edgy artistic sensibilities from earlier in her career with her current,
 > more spiritually mature aesthetic while commemorating her evolution as a pop icon,
+<br />
+<br />
+
+<div align="center">
+
+  <img src="https://github.com/user-attachments/assets/20425b16-f72c-4147-b1d9-98d1b685201a" width="70%"/>
+</div>
+<br />
+<br />
+
+
+<!-- footer -->
+<div align="center" width="95%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=100&color=293051&text=Takemi%20Ichihara&fontSize=16&fontColor=FFF5E6&fontAlignY=85" />
+</div>
 
